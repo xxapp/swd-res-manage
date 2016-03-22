@@ -2,6 +2,8 @@
 
 ！！功能还在完善中，一下只是大概的使用方法
 
+[![NPM](https://nodei.co/npm/swd-res-manage.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/swd-res-manage/)
+
 ## 基本配置
 
 ``` js
